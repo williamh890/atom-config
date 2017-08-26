@@ -1,0 +1,9 @@
+{
+  "packages": [
+    "minimap",
+    "file-icons",
+    "linter",
+
+    ["python-autopep8", "sudo pip install autopep8"]
+  ]
+}
